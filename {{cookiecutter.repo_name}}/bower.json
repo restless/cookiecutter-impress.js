@@ -1,0 +1,25 @@
+{
+  "name": "{{cookiecutter.repo_name}}",
+  "version": "0.0.0",
+  "authors": [
+    "{{cookiecutter.full_name}} <{{cookiecutter.email}}>"
+  ],
+  "description": "{{cookiecutter.project_name}}",
+  "main": "js/presentation.js",
+  "moduleType": [],
+  "keywords": [
+    "presentation"
+  ],
+  "license": "MIT",
+  "homepage": "{{cookiecutter.project_name}}",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "impress.js": "~0.5.3"
+  }
+}
