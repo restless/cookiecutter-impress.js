@@ -15,7 +15,7 @@ First, get cookiecutter::
 
 Now run it against this repo::
 
-    $ cookiecutter https://github.com/restless_being/cookiecutter-impress.js.git
+    $ cookiecutter https://github.com/restless/cookiecutter-impress.js.git
 
 You'll be prompted for some questions.
 After project generation, make sure to install impress.js dependency.
