@@ -1,10 +1,7 @@
 Simple Impress.js cookiecutter
 ==============================
 
-A `Cookiecutter`_ template for `impress.js`_ - a kickstart for your presentation.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _impress.js: https://github.com/impress/impress.js
+A [Cookiecutter](https://github.com/audreyr/cookiecutter) template for [impress.js](https://github.com/impress/impress.js) - a kickstart for your presentation.
 
 
 Installation and usage
